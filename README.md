@@ -1,6 +1,6 @@
 ## FRT: Future ready talent project by Dilip kumar.
 This is my final Future ready talent project. Here I create a interior design web apps name Decor urge that helps the customer to find best design in reasonable rates and genuine product.
-# my website link: 
+## my website link: 
 https://nice-sea-06270ea10.1.azurestaticapps.net/
 
 ## home page
@@ -29,7 +29,7 @@ https://nice-sea-06270ea10.1.azurestaticapps.net/
 ## Azure portal Screen Shot 
 ![image](https://user-images.githubusercontent.com/71396195/170970026-6e1aef97-1f73-4ff7-b841-1a488d62a4ec.png)
 
-## decor-urge
+## Decor-urge
 this is my final frt project
 As people have had to spend a lot more time at home since the start of the pandemic, there has been a huge increase in home improvements. Everyone wants an 'Instaworthy' home with a high-end finish.
 A web app that helps people order custom picture frames and get personalized recommendations on interior design based on their house. This website is made for a hypothetical company that focuses on home interior design. I wanted to create a website to showcase a fictional, luxury, interior design company.
